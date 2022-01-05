@@ -47,7 +47,7 @@ __Education and Courses__
 
 __Languages__
 
-##### / ENGLISH (С1)
-##### / GERMAN (B1)
-##### / BELARUSIAN (Native)
-##### / RUSSIAN (Native)
+##### / English (С1)
+##### / German (B1)
+##### / Belarusian (Native)
+##### / Russian (Native)
