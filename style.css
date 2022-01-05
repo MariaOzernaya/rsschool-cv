@@ -194,3 +194,18 @@ li
     margin-left: 25px;
     margin: 10px;
 } 
+
+.footer
+{
+    display: flex;
+    margin-top: 300px;
+  
+  flex: 1 0 auto;
+
+  color: rgb(107, 56, 7);
+}
+
+.footer.logo
+{
+    justify-content: right;
+}
