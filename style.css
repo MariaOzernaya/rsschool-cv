@@ -16,7 +16,7 @@ body
     margin: 50px;
     display: grid;
     grid-template-columns: 1fr 2fr;
-    box-shadow: 0 35px 55px rgba(86, 87, 35, 0.767);
+    box-shadow: 0 35px 55px rgba(86, 87, 36, 0.767);
 }
 .container .left_side
 {
