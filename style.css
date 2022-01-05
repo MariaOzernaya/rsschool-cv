@@ -186,3 +186,11 @@ li
     text-transform: uppercase;
     font-weight: 600;
 }
+.about .code
+{
+    display: flex;
+    flex-direction: row;
+    color: rgba(61, 41, 4, 0.795);
+    margin-left: 25px;
+    margin: 10px;
+} 
